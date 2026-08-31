@@ -2,3 +2,7 @@ title: 松散识别模型指标汇总
 description: V1 与 V2 松散识别模型指标、排名及行业对标
 theme: minima
 lang: zh-CN
+header_pages: []
+titles_from_headings:
+  enabled: false
+  strip_title: false
